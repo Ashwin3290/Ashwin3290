@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Seanexus<br>👯 I’m looking to collaborate on AI ML<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Stock simulator<br>👯 I’m looking to collaborate on AI ML<br>🌱 I’m currently learning Gen AI <br>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashwin3290&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashwin3290&icon=6&color=1)](https://visitcount.itsvg.in)

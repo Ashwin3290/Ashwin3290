@@ -1,24 +1,109 @@
-# 💫 About Me:
-🔭 I’m currently working on Stock simulator<br>👯 I’m looking to collaborate on AI ML<br>🌱 I’m currently learning Gen AI <br>
+<h1 align="center">Ashwin Choubey</h1>
 
+<p align="center">
+Associate Data Scientist at Yash Technologies · Indore, India<br>
+Building production GenAI systems — multi-agent orchestration, retrieval pipelines, and the infrastructure underneath them.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-choubey-0a95b8200) 
+<p align="center">
+<a href="https://ashwinchoubey.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ashwinchoubey.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/ashwin-choubey-0a95b8200"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://medium.com/@ashwin3902"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashwin3290&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashwin3290&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin3290&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashwin3290&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Ujjain City Lead, Build Club (IIT Madras Incubation Cell initiative)
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashwin3290&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,docker,aws,azure,gcp,mongodb,mysql,linux,git,go,js&theme=dark" alt="tech stack icons">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+<img src="https://img.shields.io/badge/ChromaDB-1E1E2E?style=flat-square">
+<img src="https://img.shields.io/badge/FAISS-4267B2?style=flat-square">
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white">
+</p>
+
+---
+
+### Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Bastion](REPO_URL)**
+AI coding agent, 4-layer security architecture — forbidden-command detection, path restriction, approval gates, Docker sandboxing. Complexity-based local/cloud routing. 124 tests passing.
+`Ollama` `Docker` `YAML skill system`
+
+</td>
+<td width="50%" valign="top">
+
+**[ZeroTraining-GraphRAG](REPO_URL)**
+GraphRAG built entirely from pretrained models, no fine-tuning. 90-94% of LLM-based GraphRAG quality at ~1% of the cost. F1 0.82 entity extraction, recall@10 0.74.
+`SpaCy` `Sentence-Transformers` `FAISS` `NetworkX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[VideoRAG](REPO_URL)**
+Retrieval-augmented generation over video — self-attention pooled frame embeddings, optical-flow motion features, weighted fusion across two vector stores.
+`SigLIP2` `Farneback optical flow` `ChromaDB`
+
+</td>
+<td width="50%" valign="top">
+
+**[Ash-TTS](REPO_URL)**
+Text-to-speech from scratch — FastSpeech2 acoustic model, HiFi-GAN vocoder, custom CTC forced aligner over IPA phonemes.
+`PyTorch` `wav2vec2` `FastSpeech2` `HiFi-GAN`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Cadgen](REPO_URL)**
+Natural language to parametric CAD models. 95% generation success rate, 5x faster than the prior version.
+`CrewAI` `CADQuery`
+
+</td>
+<td width="50%" valign="top">
+
+**[Intrusion Detection](REPO_URL)**
+Restricted-area intrusion detection on edge hardware, 40ms inference latency.
+`YOLOv8n` `TensorRT FP16` `Jetson Orin AGX`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/Ashwin3290?tab=repositories">→ all repositories</a></p>
+
+---
+
+### Latest writing
+
+<!-- MEDIUM-POSTS:START -->
+<!-- MEDIUM-POSTS:END -->
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ashwin3290&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin3290&theme=radical&hide_border=true&layout=compact" height="165">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin3290&theme=radical&hide_border=true">
+</p>

@@ -95,6 +95,11 @@ Restricted-area intrusion detection on edge hardware, 40ms inference latency.
 ### Latest writing
 
 <!-- MEDIUM-POSTS:START -->
+- [The Model Was Right on Every Test — And Still Wrong in Production](https://medium.com/@ashwin3902/the-model-was-right-on-every-test-and-still-wrong-in-production-16053f3624b3?source=rss-84165b0d947b------2)
+- [The Data Decisions Nobody Reviews Before They Ship](https://medium.com/@ashwin3902/the-data-decisions-nobody-reviews-before-they-ship-18fb74ada556?source=rss-84165b0d947b------2)
+- [Why Most ML Projects Die Before the Model Is Ever Built](https://medium.com/@ashwin3902/why-most-ml-projects-die-before-the-model-is-ever-built-4a69adc5d096?source=rss-84165b0d947b------2)
+- [How to Build Text-to-SQL Systems That Survive Production](https://medium.com/@ashwin3902/how-to-build-text-to-sql-systems-that-survive-production-0363db9078d3?source=rss-84165b0d947b------2)
+- [Synthetic Data Generation: The Complete Beginner’s Guide](https://medium.com/@ashwin3902/synthetic-data-generation-the-complete-beginners-guide-773cf06073fa?source=rss-84165b0d947b------2)
 <!-- MEDIUM-POSTS:END -->
 
 ---

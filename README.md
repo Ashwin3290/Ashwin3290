@@ -104,6 +104,11 @@ Restricted-area intrusion detection on edge hardware, 40ms inference latency.
 
 ---
 
+![Isometric commit calendar](./metrics.isocalendar.svg)
+![Recent languages](./metrics.languages.svg)
+
+---
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ashwin3290&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin3290&theme=radical&hide_border=true&layout=compact" height="165">

@@ -105,8 +105,6 @@ Restricted-area intrusion detection on edge hardware, 40ms inference latency.
 ---
 
 ![Isometric commit calendar](./metrics.isocalendar.svg)
-![Recent languages](./metrics.languages.svg)
-
 ---
 
 <p align="center">

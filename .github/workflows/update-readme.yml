@@ -1,0 +1,24 @@
+name: Update Medium Blog Posts
+
+on:
+  schedule:
+    # Runs once a day at 05:30 UTC. Cron is UTC — this is 11:00 AM IST.
+    - cron: '30 5 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Pull latest Medium posts into README
+        uses: gautamkrishnar/blog-post-workflow@v2
+        with:
+          # Feed URL for a Medium profile is always this pattern:
+          feed_list: "https://medium.com/@ashwin3902"
+          max_post_count: 5
+          comment_tag_name: "MEDIUM-POSTS"

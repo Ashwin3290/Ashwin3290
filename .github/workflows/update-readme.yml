@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Pull latest Medium posts into README
-        uses: gautamkrishnar/blog-post-workflow@v2
+        uses: gautamkrishnar/blog-post-workflow
         with:
           # Feed URL for a Medium profile is always this pattern:
           feed_list: "https://medium.com/@ashwin3902"
